@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Wk7 Demo Dynamic ListView Colour List</string>
+    <string name="add_new_colour">Add a colour</string>
+    <string name="enter_new_colour">Enter new colour</string>
+    <string name="enter_position">Enter position</string>
+    <string name="remove_colour">Remove a Colour</string>
+    <string name="edit_colour">Update a Colour</string>
 </resources>
